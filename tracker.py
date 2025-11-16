@@ -46,7 +46,7 @@ print("-------------------------------------------")
 print("Total Students Present:", len(attendance))
 
 
-# Optional: Absentee check
+# Absentee check
 choice = input("\nDo you want to check absentees? (yes/no): ").lower()
 
 if choice == "yes":
@@ -57,7 +57,7 @@ if choice == "yes":
     print("Total Absent:", absentees)
 
 
-# Bonus: Save to file
+# Save to file
 save_file = input("\nDo you want to save the report to a file? (yes/no): ").lower()
 
 if save_file == "yes":
