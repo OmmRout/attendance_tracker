@@ -1,0 +1,11 @@
+Attendance Report
+------------------------------
+Aditya - 09:05 am
+Rahul - 09:12 am
+Sanjay - 09:15 am
+Deepak - 09:02 am
+------------------------------
+Total Present: 4
+Total Absent: 2
+
+Report generated on: 2025-11-16 16:04:34.409986
